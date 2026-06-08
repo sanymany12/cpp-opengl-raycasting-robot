@@ -27,7 +27,7 @@ An interactive 3D computer graphics application built from scratch using **C++**
 ---
 
 ## 📸 Media / Showcase
-![Project Demo](showcase_robot.gif)
+![Project Demo](robot_showcase.gif)
 
 ---
 
