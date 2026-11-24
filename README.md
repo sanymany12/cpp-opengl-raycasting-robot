@@ -4,7 +4,7 @@ An interactive 3D computer graphics application built from scratch using **C++**
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 *   **Hierarchical Model Transformations:** Implemented character anatomy where the movement and rotation of child joints (e.g., lower arms, legs, head) are hierarchically linked to the parent transform (torso) using matrix multiplications.
 *   **Mouse Picking & Raycasting:** Translates 2D screen coordinates from mouse clicks into 3D world coordinates. A custom ray-plane intersection algorithm calculates the exact target position on the table surface for robot navigation.
@@ -15,7 +15,7 @@ An interactive 3D computer graphics application built from scratch using **C++**
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 
 *   **Language:** C++ (Modern standards, clean memory management)
 *   **Graphics API:** OpenGL (Core Profile) & GLSL for Shaders
@@ -26,12 +26,12 @@ An interactive 3D computer graphics application built from scratch using **C++**
 
 ---
 
-## 📸 Media / Showcase
+## Media / Showcase
 ![Project Demo](robot_showcase.gif)
 
 ---
 
-## ⚙️ How to Build and Run
+## How to Build and Run
 
 ### Prerequisites
 Make sure you have the following libraries configured/installed on your system:
